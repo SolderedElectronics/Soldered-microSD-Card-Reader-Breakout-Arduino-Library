@@ -1,14 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"class_ex_file.html":[3,0,32],
-"class_ex_file.html#ac33383190264a3b74434877f0ff7e6d6":[3,0,32,0],
-"class_fat_file.html":[3,0,34],
-"class_fat_file.html#a0313d518970d1438d5cad721720cc109":[3,0,34,33],
-"class_fat_file.html#a03421a0c28649332f55e6ca06d3aeedb":[3,0,34,45],
-"class_fat_file.html#a052e2c15a39b322a5307b693b8835b22":[3,0,34,8],
-"class_fat_file.html#a07d137a7ff48af119d039d1e7ab8337a":[3,0,34,88],
-"class_fat_file.html#a081dd810835f1ebf8c23ffe92706b485":[3,0,34,103],
-"class_fat_file.html#a0853fbd44aee2798d14d8e3aed78f8bf":[3,0,34,12],
 "class_fat_file.html#a0afc2a1cffa238d1cb2049bfa2d8d199":[3,0,34,13],
 "class_fat_file.html#a0cc65089f7ce6c1ff92edbf0bff59dee":[3,0,34,47],
 "class_fat_file.html#a12a5d2de2737c201aa39ca1bd2ab9c47":[3,0,34,80],
@@ -212,8 +203,8 @@ var NAVTREEINDEX4 =
 "class_fat_partition.html#a8edf37536974d4af3ac05b9cf944583f":[3,0,36,71],
 "class_fat_partition.html#a916ba7d67711bb62daf12ecd47ca4b8e":[3,0,36,55],
 "class_fat_partition.html#a9640699294eed1e5e2e0bd9179d06803":[3,0,36,17],
-"class_fat_partition.html#a9e7c410debf8b9a231c12ea8abfd1c0c":[3,0,36,51],
 "class_fat_partition.html#a9e7c410debf8b9a231c12ea8abfd1c0c":[3,0,36,50],
+"class_fat_partition.html#a9e7c410debf8b9a231c12ea8abfd1c0c":[3,0,36,51],
 "class_fat_partition.html#aa29ad98f772af6c48e8c8c665a81f368":[3,0,36,59],
 "class_fat_partition.html#aa518dd82724f61bf0875b8f2b8fe8492":[3,0,36,16],
 "class_fat_partition.html#aa5f965ab5cdb06b6a76c4631f7a98331":[3,0,36,73],
@@ -249,5 +240,14 @@ var NAVTREEINDEX4 =
 "class_fat_volume.html#a45434c8a4907ceaf9f7c8dac7fcfddd1":[3,0,38,24],
 "class_fat_volume.html#a455ad7b2a5b6b31551dca08087a3c404":[3,0,38,8],
 "class_fat_volume.html#a5e4ea6c91569dc435c7aacd7ba704911":[3,0,38,18],
-"class_fat_volume.html#a659d921b3efd52d310a33cba69eff18b":[3,0,38,1]
+"class_fat_volume.html#a659d921b3efd52d310a33cba69eff18b":[3,0,38,1],
+"class_fat_volume.html#a7eaafa3e988859e9166eeaa7cd0f42e3":[3,0,38,5],
+"class_fat_volume.html#a86a08bf789e33567418465b9b12751e2":[3,0,38,22],
+"class_fat_volume.html#a8ac1fec1547ca7b71fcebe69130c673a":[3,0,38,27],
+"class_fat_volume.html#a97ef39ec02c38c0772f0029d42edcb46":[3,0,38,23],
+"class_fat_volume.html#a994411f55df474be6be87f06100c2c39":[3,0,38,17],
+"class_fat_volume.html#aa7015c0f694261780081c79c05d0882d":[3,0,38,19],
+"class_fat_volume.html#ab423ec4f7e5b58a6d454f328f61fd864":[3,0,38,13],
+"class_fat_volume.html#abb11d05ef407775bcdb9b14a6c608433":[3,0,38,16],
+"class_fat_volume.html#ac0f6cf6ece2285af777c1fdf5cf8c219":[3,0,38,2]
 };

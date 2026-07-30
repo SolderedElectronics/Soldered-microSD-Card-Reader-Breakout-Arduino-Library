@@ -1,6 +1,6 @@
 var _sd_fat_8h =
 [
-    [ "SdBase< Vol >", "class_sd_base.html", "class_sd_base" ],
+    [ "SdBase&lt; Vol &gt;", "class_sd_base.html", "class_sd_base" ],
     [ "SdFat32", "class_sd_fat32.html", "class_sd_fat32" ],
     [ "SdExFat", "class_sd_ex_fat.html", "class_sd_ex_fat" ],
     [ "SdFs", "class_sd_fs.html", "class_sd_fs" ],

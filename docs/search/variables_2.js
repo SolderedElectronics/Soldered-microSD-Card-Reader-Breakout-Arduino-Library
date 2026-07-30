@@ -11,7 +11,7 @@ var searchData=
   ['boot_8',['boot',['../structmbr_partition.html#a2734d357c1ce21b8814b2e8923f716a1',1,'mbrPartition']]],
   ['boot_5fbackup_5foffset_9',['BOOT_BACKUP_OFFSET',['../_ex_fat_formatter_8cpp.html#a8f7d05e2de312685f53efa1a3a3b1f8a',1,'ExFatFormatter.cpp']]],
   ['bootcode_10',['bootCode',['../structmaster_boot_record_sector.html#ad34d6e6a28ec0d31749363cb7b68a6b6',1,'masterBootRecordSector::bootCode'],['../structpartition_boot_sector.html#ab47b6a8f43c10ac8fee2539f99090db0',1,'partitionBootSector::bootCode'],['../structpartition_boot_sector_fat.html#a16f092e809bcc2375dc3fdbc13cb93cc',1,'partitionBootSectorFat::bootCode'],['../struct_ex_fat_boot_sector.html#af3ed4e1fb9eedafdb90e29e0114453ad',1,'ExFatBootSector::bootCode']]],
-  ['bpb_11',['bpb',['../structpartition_boot_sector.html#a8276e49605097a7b7b7c45193c1e69c0',1,'partitionBootSector::bpb'],['../structpartition_boot_sector_fat.html#a33d12af93e1dc0f4a7926324160cb768',1,'partitionBootSectorFat::bpb'],['../structpartition_boot_sector_fat.html#aa3bbe96f426e0822d80a4bfa7d60e589',1,'partitionBootSectorFat::bpb'],['../struct_ex_fat_boot_sector.html#a8f1cb00d447a6341f81b14ac77ef7155',1,'ExFatBootSector::bpb']]],
+  ['bpb_11',['bpb',['../structpartition_boot_sector.html#a8276e49605097a7b7b7c45193c1e69c0',1,'partitionBootSector::bpb'],['../structpartition_boot_sector_fat.html#a33d12af93e1dc0f4a7926324160cb768',1,'partitionBootSectorFat::bpb'],['../structpartition_boot_sector_fat.html#af390991dacc955d46580940504ae8aae',1,'partitionBootSectorFat::bpb'],['../struct_ex_fat_boot_sector.html#a8f1cb00d447a6341f81b14ac77ef7155',1,'ExFatBootSector::bpb']]],
   ['bpb16_12',['bpb16',['../structpartition_boot_sector_fat.html#a9bc94da2f79fc5472ae1897fecfbc058',1,'partitionBootSectorFat']]],
   ['bpb32_13',['bpb32',['../structpartition_boot_sector_fat.html#a248c994da18f74c99cfbfe2182e429a4',1,'partitionBootSectorFat']]],
   ['bu16_14',['BU16',['../_fat_formatter_8cpp.html#a89c6c685990d81b1ba5e7ab32d5c4498',1,'FatFormatter.cpp']]],
@@ -20,6 +20,6 @@ var searchData=
   ['busy_5ftimeout_5fmicros_17',['BUSY_TIMEOUT_MICROS',['../_sdio_teensy_8cpp.html#a0c02077ff4ad30fd4263661e6b2b24e6',1,'SdioTeensy.cpp']]],
   ['bytes_5fper_5fsector_18',['BYTES_PER_SECTOR',['../_ex_fat_formatter_8cpp.html#a532cc9055b0be27adb8c1b80fd705ec8',1,'BYTES_PER_SECTOR:&#160;ExFatFormatter.cpp'],['../_fat_formatter_8cpp.html#a532cc9055b0be27adb8c1b80fd705ec8',1,'BYTES_PER_SECTOR:&#160;FatFormatter.cpp']]],
   ['bytes_5fper_5fsector_5fshift_19',['BYTES_PER_SECTOR_SHIFT',['../_ex_fat_formatter_8cpp.html#a70bad5bef5a017c0cf18b10a7b872ef2',1,'ExFatFormatter.cpp']]],
-  ['bytespersector_20',['bytesPerSector',['../structbios_parameter_block_fat32.html#ad1fd1b0416869cab7013ab935246e98c',1,'biosParameterBlockFat32::bytesPerSector'],['../structbios_parameter_block_fat16.html#a19c46b1353e6dd6eca1bcbf26a98b4f5',1,'biosParameterBlockFat16::bytesPerSector']]],
+  ['bytespersector_20',['bytesPerSector',['../structbios_parameter_block_fat16.html#a19c46b1353e6dd6eca1bcbf26a98b4f5',1,'biosParameterBlockFat16::bytesPerSector'],['../structbios_parameter_block_fat32.html#ad1fd1b0416869cab7013ab935246e98c',1,'biosParameterBlockFat32::bytesPerSector']]],
   ['bytespersectorshift_21',['bytesPerSectorShift',['../structbios_parameter_block_ex_fat.html#ac4ecab423ca294e65f7e4547e6db3dd8',1,'biosParameterBlockExFat']]]
 ];

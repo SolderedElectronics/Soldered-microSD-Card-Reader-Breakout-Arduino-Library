@@ -15,7 +15,7 @@ var hierarchy =
         [ "SdioCard", "class_sdio_card.html", null ]
       ] ]
     ] ],
-    [ "BufferedPrint< WriteClass, BUF_DIM >", "class_buffered_print.html", null ],
+    [ "BufferedPrint&lt; WriteClass, BUF_DIM &gt;", "class_buffered_print.html", null ],
     [ "cache_t", "unioncache__t.html", null ],
     [ "CID", "struct_c_i_d.html", null ],
     [ "csd_t", "unioncsd__t.html", null ],
@@ -135,8 +135,7 @@ var hierarchy =
     [ "setfill", "structsetfill.html", null ],
     [ "setprecision", "structsetprecision.html", null ],
     [ "setw", "structsetw.html", null ],
-    [ "SoftSPI< MisoPin, MosiPin, SckPin, Mode >", "class_soft_s_p_i.html", null ],
-    [ "SoftSPI< MisoPin, MosiPin, SckPin, 0 >", "class_soft_s_p_i.html", null ],
+    [ "SoftSPI&lt; MisoPin, MosiPin, SckPin, Mode &gt;", "class_soft_s_p_i.html", null ],
     [ "stream_t", null, [
       [ "StreamFile< ExFatFile, uint64_t >", "class_stream_file.html", null ],
       [ "StreamFile< FatFile, uint32_t >", "class_stream_file.html", null ],

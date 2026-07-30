@@ -26,7 +26,7 @@ var NAVTREE =
 [
   [ "Soldered SD Card Arduino Library", "index.html", [
     [ "Soldered microSD Card Breakout Arduino library", "index.html", "index" ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -66,17 +66,18 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_analog_bin_logger_8h.html",
-"_fs_structs_8cpp.html",
-"_sd_card_info_8h.html#af3bbe76c61e108c500f5a861dff1e6c2",
-"class_buffered_print.html#ac18cc8c86b73b073a28db85075215f4f",
-"class_ex_file.html",
-"class_fat_volume.html#a7eaafa3e988859e9166eeaa7cd0f42e3",
-"class_sd_card_factory.html#a752d9e3390a4fa800b8ac0baf9d079b1",
-"classfstream.html#a85b24d94552991f33caf4c3a83420879",
-"functions_m.html",
-"struct_c_s_d_v2.html#a660d402b75b24435ebc73863dabaa176",
-"structmaster_boot_record_sector.html#ad34d6e6a28ec0d31749363cb7b68a6b6"
+"_fs_structs_8h.html#a25b748b219c3d782e4138208c54e70d9",
+"_sd_card_info_8h.html#affe215a7220b2d52fb9dacf3b35e56dc",
+"class_ex_fat_file.html#a044ca2c192b8f7059278dd300fa209d2",
+"class_fat_file.html#a0afc2a1cffa238d1cb2049bfa2d8d199",
+"class_fat_volume.html#ac591520e33ff8ba51e80782a87423872",
+"class_sd_card_interface.html#a80796bc06b4090c15b3d46e651dd38c8",
+"classibufstream.html#aba68729fea0a046bcc91bbbef4ab28b8",
+"functions_u.html",
+"struct_c_s_d_v2.html#ab7031b6fc7926ecc0acd6cff50c2c5d1",
+"structmetadata__t.html#a00910beda709308e5c898d350b7dc01c"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+const SYNCONMSG = 'click to disable panel synchronization';
+const SYNCOFFMSG = 'click to enable panel synchronization';
+const LISTOFALLMEMBERS = 'List of all members';

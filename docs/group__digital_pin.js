@@ -11,6 +11,7 @@ var group__digital_pin =
     [ "if", "group__digital_pin.html#ga27fd838d3fc49f6033ef5fb235b108f0", null ],
     [ "if", "group__digital_pin.html#ga4adc306038cf7fb6fd42255194822fb3", null ],
     [ "if", "group__digital_pin.html#ga72be07769abacf6e03e67dc2a74f9f4f", null ],
+    [ "__attribute__", "group__digital_pin.html#ga8c1dfc1ccf00a08192611433ee7f17b4", null ],
     [ "else", "group__digital_pin.html#ga0544c3fe466e421738dae463968b70ba", null ],
     [ "level", "group__digital_pin.html#ga78f7dacba6e00562a324ccbcef989b84", null ],
     [ "mask", "group__digital_pin.html#ga8a74907784be6c7786c2d060c8d7e10b", null ],

@@ -10,7 +10,7 @@ var _sd_card_info_8h =
     [ "printSdErrorSymbol", "_sd_card_info_8h.html#a7e9cdad194e9e7cf8a426028b7fb1809", null ],
     [ "printSdErrorText", "_sd_card_info_8h.html#a3c5d1a57669e1cba2130fcd865ab5012", null ],
     [ "sdCardCapacity", "_sd_card_info_8h.html#a74fdb2782b0db8bcf0fcd3dbccbaff01", null ],
-    [ "__attribute__", "_sd_card_info_8h.html#a8c1dfc1ccf00a08192611433ee7f17b4", null ],
+    [ "__attribute__", "group__digital_pin.html#ga8c1dfc1ccf00a08192611433ee7f17b4", null ],
     [ "ACMD13", "_sd_card_info_8h.html#aa3fec2812131731a21e4a74272047463", null ],
     [ "ACMD23", "_sd_card_info_8h.html#ab18b1aca2d654f9a035ba4cbd594d4ca", null ],
     [ "ACMD41", "_sd_card_info_8h.html#ace7d32befc6e96a501f39159310da301", null ],

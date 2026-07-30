@@ -1,6 +1,6 @@
 var _fs_date_time_8h =
 [
-    [ "clearCallback", "_fs_date_time_8h.html#af88a1ebd9c91a474c79a641e716729a0", null ],
+    [ "FsDateTime::clearCallback", "namespace_fs_date_time.html#af88a1ebd9c91a474c79a641e716729a0", null ],
     [ "FS_DATE", "_fs_date_time_8h.html#a63453bc4e4866875e88641b64bd167eb", null ],
     [ "FS_DAY", "_fs_date_time_8h.html#aa56d74ccaec204ad6677f32b4cf02d89", null ],
     [ "FS_HOUR", "_fs_date_time_8h.html#a726d6a2756d518d316454eb709e2cc79", null ],
@@ -20,6 +20,6 @@ var _fs_date_time_8h =
     [ "fsPrintTime", "_fs_date_time_8h.html#a5f66b5109d471a946861e2d70754c901", null ],
     [ "fsPrintTime", "_fs_date_time_8h.html#a439c7b9e8385c61a4b68d7bf36948f10", null ],
     [ "fsPrintTimeZone", "_fs_date_time_8h.html#a7d407c707c74809c554c19ae4bb9d065", null ],
-    [ "setCallback", "_fs_date_time_8h.html#afae6e23c2ed7d8194023d19d87fb1b62", null ],
-    [ "setCallback", "_fs_date_time_8h.html#aa48bd625d32aae8fcfe67aba1d080be3", null ]
+    [ "FsDateTime::setCallback", "namespace_fs_date_time.html#afae6e23c2ed7d8194023d19d87fb1b62", null ],
+    [ "FsDateTime::setCallback", "namespace_fs_date_time.html#aa48bd625d32aae8fcfe67aba1d080be3", null ]
 ];

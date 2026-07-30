@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['data_0',['data',['../structblock16__t.html#a0782b15fe864f3160535ace802060514',1,'block16_t::data'],['../structblock8__t.html#ac06b34d222a4d027063174c7eaef6ce5',1,'block8_t::data'],['../structadcdata__t.html#a41a49a040c7ad5b2f182cd81e4c140c7',1,'adcdata_t::data'],['../struct_dir_generic__t.html#abde169ea86c51fbe6b6942978dfe67a3',1,'DirGeneric_t::data'],['../class_soft_s_p_i.html#a6ad1ab8969743211a63fac715d64be75',1,'SoftSPI::data'],['../class_soft_s_p_i.html#a5dd085e0df052a1af54031d07fa33e04',1,'SoftSPI::data'],['../unioncache__t.html#ae675b7a3a87d809070de111d1d1f1d81',1,'cache_t::data'],['../structblock8__t.html#a88745d549d17f6835e514754315ef931',1,'block8_t::data']]],
-  ['data_5fdim16_1',['DATA_DIM16',['../_analog_bin_logger_8h.html#a1c018512bbd473f670dd9a740ab3cbc4',1,'DATA_DIM16:&#160;AnalogBinLogger.h'],['../_avr_adc_logger_8h.html#a1c018512bbd473f670dd9a740ab3cbc4',1,'DATA_DIM16:&#160;AvrAdcLogger.h']]],
-  ['data_5fdim8_2',['DATA_DIM8',['../_analog_bin_logger_8h.html#aedd0d576e0ca69f47fdddb6dc95f6d8a',1,'DATA_DIM8:&#160;AnalogBinLogger.h'],['../_avr_adc_logger_8h.html#aedd0d576e0ca69f47fdddb6dc95f6d8a',1,'DATA_DIM8:&#160;AvrAdcLogger.h']]],
+  ['data_0',['data',['../structblock8__t.html#a88745d549d17f6835e514754315ef931',1,'block8_t::data'],['../structblock16__t.html#a0782b15fe864f3160535ace802060514',1,'block16_t::data'],['../structblock8__t.html#ac06b34d222a4d027063174c7eaef6ce5',1,'block8_t::data'],['../structadcdata__t.html#a1443f23fccd647430e2f245067eb01ae',1,'adcdata_t::data'],['../struct_dir_generic__t.html#abde169ea86c51fbe6b6942978dfe67a3',1,'DirGeneric_t::data'],['../class_soft_s_p_i.html#a6ad1ab8969743211a63fac715d64be75',1,'SoftSPI::data'],['../class_soft_s_p_i.html#a5dd085e0df052a1af54031d07fa33e04',1,'SoftSPI::data'],['../unioncache__t.html#ae675b7a3a87d809070de111d1d1f1d81',1,'cache_t::data']]],
+  ['data_5fdim16_1',['DATA_DIM16',['../_avr_adc_logger_8h.html#a1c018512bbd473f670dd9a740ab3cbc4',1,'DATA_DIM16:&#160;AvrAdcLogger.h'],['../_analog_bin_logger_8h.html#a1c018512bbd473f670dd9a740ab3cbc4',1,'DATA_DIM16:&#160;AnalogBinLogger.h']]],
+  ['data_5fdim8_2',['DATA_DIM8',['../_avr_adc_logger_8h.html#aedd0d576e0ca69f47fdddb6dc95f6d8a',1,'DATA_DIM8:&#160;AvrAdcLogger.h'],['../_analog_bin_logger_8h.html#aedd0d576e0ca69f47fdddb6dc95f6d8a',1,'DATA_DIM8:&#160;AnalogBinLogger.h']]],
   ['data_5fformat_3',['DATA_FORMAT',['../_low_latency_logger_a_d_x_l345_2_user_functions_8cpp.html#a8025058383a0b2166405c7812504e211',1,'UserFunctions.cpp']]],
   ['data_5fread_4',['DATA_READ',['../_sdio_teensy_8cpp.html#af63d1a937e381941ee98adb3155a751b',1,'SdioTeensy.cpp']]],
   ['data_5fread_5fdma_5',['DATA_READ_DMA',['../_sdio_teensy_8cpp.html#a78ea001a4b8a642ce787cbf834c2d60b',1,'SdioTeensy.cpp']]],
@@ -31,5 +31,5 @@ var searchData=
   ['dedicated_5fspi_28',['DEDICATED_SPI',['../_sd_spi_driver_8h.html#ad81ddcc2265c6b6a4c835fd739f0f534',1,'SdSpiDriver.h']]],
   ['dir_29',['dir',['../unioncache__t.html#a04a7472d08f2545d6db7804c82c99d7c',1,'cache_t']]],
   ['driveselect_30',['driveSelect',['../structbios_parameter_block_ex_fat.html#a705554e385b3fce54cba8cdb115dfdfe',1,'biosParameterBlockExFat']]],
-  ['dsr_5fimp_31',['dsr_imp',['../struct_c_s_d_v2.html#a16e521025f7277d53eeaf7ab576dd692',1,'CSDV2::dsr_imp'],['../_sd_card_info_8h.html#adca766448ce5830490363d3fbb02ab4b',1,'dsr_imp:&#160;SdCardInfo.h'],['../struct_c_s_d_v1.html#adfec8df7c230379bccd0ee89a5ff822a',1,'CSDV1::dsr_imp']]]
+  ['dsr_5fimp_31',['dsr_imp',['../struct_c_s_d_v1.html#adfec8df7c230379bccd0ee89a5ff822a',1,'CSDV1::dsr_imp'],['../struct_c_s_d_v2.html#a16e521025f7277d53eeaf7ab576dd692',1,'CSDV2::dsr_imp'],['../_sd_card_info_8h.html#adca766448ce5830490363d3fbb02ab4b',1,'dsr_imp:&#160;SdCardInfo.h']]]
 ];

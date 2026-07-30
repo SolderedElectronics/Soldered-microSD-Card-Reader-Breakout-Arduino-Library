@@ -2,13 +2,13 @@ var classios__base =
 [
     [ "fmtflags", "classios__base.html#ac9a54e52cef4f01ac0afd8ae896a3413", null ],
     [ "iostate", "classios__base.html#aef19291eeae0f072ac42c6ba1fe3033c", null ],
-    [ "off_type", "classios__base.html#a45de7cca0d01da781f4b886179c65c22", null ],
     [ "off_type", "classios__base.html#a8dec53328c2ca1883bc41d08022591c5", null ],
+    [ "off_type", "classios__base.html#a45de7cca0d01da781f4b886179c65c22", null ],
     [ "openmode", "classios__base.html#aaa192ec0dccc43050715553a34644523", null ],
-    [ "pos_type", "classios__base.html#abe85cf1f181b8bce8022f05ab76aae7f", null ],
     [ "pos_type", "classios__base.html#a1f8c459d4597a781cc134e6626e00aee", null ],
-    [ "streamsize", "classios__base.html#a82836e1d3cc603fba8f0b54d323a2dff", null ],
+    [ "pos_type", "classios__base.html#abe85cf1f181b8bce8022f05ab76aae7f", null ],
     [ "streamsize", "classios__base.html#a944a240a54e6d0cef56540f2915e8d0e", null ],
+    [ "streamsize", "classios__base.html#a82836e1d3cc603fba8f0b54d323a2dff", null ],
     [ "seekdir", "classios__base.html#ab01103ba35f6ba93a704b3ec0c86191e", [
       [ "beg", "classios__base.html#ab01103ba35f6ba93a704b3ec0c86191ea6639b4dd9e9b57ffef4a176cd1a1e7bb", null ],
       [ "cur", "classios__base.html#ab01103ba35f6ba93a704b3ec0c86191ea53910041525b9e2f33bfc3bb4482134c", null ],

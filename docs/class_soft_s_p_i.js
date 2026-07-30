@@ -17,8 +17,8 @@ var class_soft_s_p_i =
     [ "if", "class_soft_s_p_i.html#add7e9e30989593437e98c7daf9d37a8a", null ],
     [ "if", "class_soft_s_p_i.html#a819919e5ded98b3682225be8fb445eab", null ],
     [ "if", "class_soft_s_p_i.html#a31d181134e3a9f1d1b14f5b95a140eb3", null ],
-    [ "data", "class_soft_s_p_i.html#a6ad1ab8969743211a63fac715d64be75", null ],
     [ "data", "class_soft_s_p_i.html#a5dd085e0df052a1af54031d07fa33e04", null ],
+    [ "data", "class_soft_s_p_i.html#a6ad1ab8969743211a63fac715d64be75", null ],
     [ "nop", "class_soft_s_p_i.html#a2a8036676a59cf9d4882f442ab565149", null ],
     [ "rxData", "class_soft_s_p_i.html#ab74fbd2f62c61054253b8ae8abbe42d5", null ],
     [ "txData", "class_soft_s_p_i.html#a54a83bfd9cd526b05887c167a8265ba2", null ]
